@@ -1,4 +1,9 @@
 test 001 sssssssss
 remote server:0000001 sssssssssss
+<<<<<<< HEAD
 local +add 00000002 llllllllllllllllllll - rrrrrrrrrrr 444444444444 
 ++LLLLLLLLLLLLLLLLLLLL
+=======
+local +add 00000002 llllllllllllllllllll - rrrrrrrrrrr 444444444444
+ADD REMOTE RRRRRRRRRRRRRRRRRRR
+>>>>>>> ca78962bc868b0572aa312c4dd7e7b87301a9d28
